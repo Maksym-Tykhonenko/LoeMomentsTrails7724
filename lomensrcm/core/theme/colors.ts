@@ -1,0 +1,17 @@
+export const colors = {
+  bg: '#030807',
+  bgElevated: '#0A2519',
+  bgCard: 'rgba(136, 146, 170, 0.1)',
+  bgInput: '#0E2A1E',
+  border: '#1D4A34',
+  borderStrong: '#2A6246',
+  textPrimary: '#F6F8EE',
+  textSecondary: '#8FA69A',
+  textMuted: '#698374',
+  accent: '#C9A84C',
+  accentGreen: '#32D46E',
+  danger: '#D94B58',
+  white: '#FFFFFF',
+  black: '#000000',
+  mapWater: '#8ED8FF',
+} as const;
